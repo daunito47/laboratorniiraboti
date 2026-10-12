@@ -1,4 +1,5 @@
 = Отчёт по лекции 1
+Васильев В.В.
 
 :description: Отчёт по лекции 1. Среда разработки программ для микроконтроллера.
 :keywords: AsciiDoc, IAR, Embedded Workbench, STM32, C++
